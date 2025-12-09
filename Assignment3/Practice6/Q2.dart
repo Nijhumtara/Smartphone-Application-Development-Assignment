@@ -1,5 +1,3 @@
-import 'Q1.dart';
-
 class House{
   int? id;
   String? name;
